@@ -11,12 +11,12 @@ that can store multiple values in a single variable.
 
 ## Assignment Instructions
 
- - [01 - repeatStrings &rArr;](./js-exercises/06_repeatString/)
- - [02 - reverseString &rArr;](./js-exercises/07_reverseString/)
- - [03 - removeFromArray &rArr;](./js-exercises/08_removeFromArray/)
- - [04 - sumAll &rArr;](./js-exercises/09_sumAll/)
- - [05 - leapYears &rArr;](./js-exercises/10_leapYears/)
- - [06 - tempConversion &rArr;](./js-exercises/11_tempConversion/)
+ - [06 - repeatStrings &rArr;](./js-exercises/06_repeatString/)
+ - [07 - reverseString &rArr;](./js-exercises/07_reverseString/)
+ - [08 - removeFromArray &rArr;](./js-exercises/08_removeFromArray/)
+ - [09 - sumAll &rArr;](./js-exercises/09_sumAll/)
+ - [10 - leapYears &rArr;](./js-exercises/10_leapYears/)
+ - [11 - tempConversion &rArr;](./js-exercises/11_tempConversion/)
 
 ## Results
 
