@@ -20,50 +20,68 @@ that can store multiple values in a single variable.
 
 ## Results
 
-*coming soon*
-<!-- <table>
+<table>
 <tr>
 
 <td>
 
-### 01 - helloWord
+### 06 - repeatStrings
 
-![helloWorld test results](./img/01_helloWorld.png)
+![repeatStrings test results](./img/result06.png)
 
 </td>
 <td>
 
-### 02 - addNumber
+### 07a - reverseString
 
-![addNumber test results](./img/02_addNumbers.png)
+Using for to loop through the string as an array.
+
+![reverseString test results](./img/result07a.png)
 
 </td>
 </tr>
 <tr>
 <td>
 
-### 03 - numberChecker
+### 07b - reverseString
 
-![numberChecker test results](./img/03_numberChecker.png)
+Using built in string and array methods.
+
+![reverseString test results](./img/result07b.png)
 
 </td>
 <td>
 
-### 04 - mathEquations
+### 08 - removeFromArray
 
-![mathEquations test results](./img/04_mathEquations.png)
+![removeFromArray test results](./img/result08.png)
 
 </td>
 </tr>
 <tr>
 <td>
 
-### 05 - joinStrings
+### 09 - sumAll
 
-![joinStrings test results](./img/05_joinStrings.png)
+![sumAll test results](./img/result09.png)
 
 </td>
+<td>
 
+### 10 - leapYears
+
+![leapYears test results](./img/result10.png)
+
+</td>
 </tr>
-</table> -->
+<tr>
+<td>
+
+### 11 - tempConversion
+
+![tempConversion test results](./img/result11.png)
+
+</td>
+</tr>
+</table>
 
